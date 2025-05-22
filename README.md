@@ -217,7 +217,14 @@
 </div>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aanand-Pawara&theme=radical)](https://github.com/Aanand-Pawara)
+
+
+
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/Aanand-Pawara" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=Aanand-Pawara&theme=radical&row=1" alt="Aanand's trophies" />
+  </a>
+</div>
 
 ---
 
