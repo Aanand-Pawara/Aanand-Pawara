@@ -84,7 +84,15 @@
     <td style="padding: 10px;"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></td>
     <td style="padding: 10px;"><img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"></td>
     <td style="padding: 10px;"><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/GDevelop-9D00FF?style=for-the-badge&logo=gdevelop&logoColor=white"></td>
   </tr>
+  <tr> 
+    <td style="padding: 10px;"> <img src="https://img.shields.io/badge/Construct-5D4B7A?style=for-the-badge&logo=construct-3&logoColor=white">
+    <td style="padding: 10px;"> <img src="https://img.shields.io/badge/Cocos2d--x-55C2DA?style=for-the-badge&logo=cocos&logoColor=white"> </td>
+    <td></td>
+    <td></td>
+  </tr>
+  
 </table>
 
 
@@ -106,36 +114,62 @@
     <td style="padding: 10px;"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></td>
     <td style="padding: 10px;"><img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"></td>
     <td style="padding: 10px;"><img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"></td>
-    <td></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white"></td>
   </tr>
 </table>
+
+
 
 
 ---
 
   
 
-### 🧰 Dev Tools & Platforms
 <table style="border-collapse: collapse; background-color: #1e1e2f; border: 2px solid #d53dff; border-radius: 12px;">
   <tr>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></td>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson"></td>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></td>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    </td>
   </tr>
   <tr>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></td>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"></td>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"></td>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    </td>
   </tr>
   <tr>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    </td>
+    <td style="padding: 10px;">
+      <!-- empty placeholder to keep layout consistent -->
+    </td>
   </tr>
 </table>
+
 
 
   
@@ -145,7 +179,6 @@
   
 
 ### 🌐 Web Technologies
-
 <table style="border-collapse: collapse; background-color: #1e1e2f; border: 2px solid #d53dff; border-radius: 12px; text-align: center;">
   <tr>
     <td style="padding: 10px; text-align: center;">
@@ -157,8 +190,12 @@
     <td style="padding: 10px; text-align: center;">
       <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
     </td>
+    <td style="padding: 10px; text-align: center;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    </td>
   </tr>
 </table>
+
 
 
 ---
@@ -166,9 +203,21 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Aanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aanand-Pawara&show_icons=true&theme=radical)
+<div style="display: flex; gap: 20px; align-items: center; justify-content: center; width: 100%;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Aanand-Pawara&show_icons=true&theme=radical" 
+    alt="Aanand's GitHub stats" 
+    style="width: 450px; height: 200px; object-fit: contain;"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanand-Pawara&layout=compact&theme=radical" 
+    alt="Top Langs" 
+    style="width: 405px; height: 200px; object-fit: contain;"
+  />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aanand-Pawara&layout=compact&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aanand-Pawara&theme=radical)](https://github.com/Aanand-Pawara)
 
 ---
 
