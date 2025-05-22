@@ -1,5 +1,8 @@
 
-![Typograssy Badge](https://typograssy.deno.dev/api?text=ANUSUYA&l1=edadff&l2=e486fe&l3=d53dff&l4=c800ff&comment=TeamPomogranate)
+<p align="center">
+  <img src="https://typograssy.deno.dev/api?text=ANUSUYA&l1=edadff&l2=e486fe&l3=d53dff&l4=c800ff&comment=TeamPomogranate" alt="Typograssy Badge" />
+</p>
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -45,7 +48,7 @@
 
 ---
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
+<img src="https://github.com/Aanand-Pawara/Aanand-Pawara/blob/main/Assets/Gifs/adobe-logos. Kinard" width ="50">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -53,21 +56,21 @@
 
 ### 💻 Languages
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<table style="border-collapse: collapse; background-color: #1e1e2f; border: 2px solid #d53dff; border-radius: 12px;">
+  <tr>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></td>
+  </tr>
+</table>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
   
 
@@ -76,12 +79,14 @@
   
 
 ### 🎮 Game Engines
+<table style="border-collapse: collapse; background-color: #1e1e2f; border: 2px solid #d53dff; border-radius: 12px;">
+  <tr>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"></td>
+  </tr>
+</table>
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
   
 
@@ -90,44 +95,48 @@
   
 
 ### 🎨 Design & UI Tools
+<table style="border-collapse: collapse; background-color: #1e1e2f; border: 2px solid #d53dff; border-radius: 12px;">
+  <tr>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"></td>
+    <td></td>
+  </tr>
+</table>
 
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-
-![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 
 ---
 
   
 
 ### 🧰 Dev Tools & Platforms
+<table style="border-collapse: collapse; background-color: #1e1e2f; border: 2px solid #d53dff; border-radius: 12px;">
+  <tr>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
   
 
@@ -137,14 +146,19 @@
 
 ### 🌐 Web Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<table style="border-collapse: collapse; background-color: #1e1e2f; border: 2px solid #d53dff; border-radius: 12px;">
+  <tr>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"></td>
+  </tr>
+</table>
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ---
 
-### 📈 Little GitHub Flex
+### 📈 Github stats (😭)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![Aanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aanand-Pawara&show_icons=true&theme=radical)
 
@@ -152,7 +166,10 @@
 
 ---
 
-> *"The real programming starts, when you run out of memory"*
+> <p><i><b>
+  “The real programming starts, when you run out of memory.” 
+  <img src="https://github.com/Aanand-Pawara/Aanand-Pawara/blob/main/Assets/Gifs/confused-monkey.gif" width="35">
+</b></i></p>
 
 ---
 
