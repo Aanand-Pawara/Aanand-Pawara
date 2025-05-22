@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 
 https://typograssy.deno.dev/api?text=A
 
-<p align="center">
-<a href="https://github.com/kawarimidoll/typograssy"><img alt="header" src="assets/header.svg"></a>
-</p>
-
+<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hello%20world!"></a>
 ## 🦕 Deno practices
 
 ### Repositories
