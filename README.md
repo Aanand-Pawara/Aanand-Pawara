@@ -1,94 +1,47 @@
-<!--
-**kawarimidoll/kawarimidoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there, I'm Aanand Pawara
 
-Here are some ideas to get you started:
+🎮 A passionate Unity game developer  
+🛠️ I build systems, design gameplay, and write scalable C# code  
+💡 Always learning, always experimenting  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<a href="https://github.com/kawarimidoll/typograssy">
-  <img alt="typograssy" src="https://typograssy.deno.dev/api?text=ANUSUYA&l1=edadff&l2=e486fe&l3=d53dff&l4=c800ff&comment=TeamPomogranate">
-</a>
+## 💼 What I'm Working On
+- 🔧 Cartoon supermarket simulator with AI customers, inventory & task systems
+- 🚀 Custom Unity systems using Object Pooling, ScriptableObjects, and Event-driven design
+- 🎯 Improving Unity dev workflows with clean code & god-level patterns 😤
 
-## 🦕 Deno practices
+---
 
-### Repositories
+## 🧠 Skills & Tools
 
-<a href="https://github.com/kawarimidoll/deno-github-contributions-api"><img alt="deno-github-contributions-api" src="assets/deno-github-contributions-api.svg" style="width:380px"></a>
-<a href="https://github.com/kawarimidoll/deno-diplodocus"><img alt="deno-diplodocus" src="assets/deno-diplodocus.svg" style="width:380px"></a>
-<a href="https://github.com/kawarimidoll/denote"><img alt="denote" src="assets/denote.svg" style="width:380px"></a>
-<a href="https://github.com/kawarimidoll/pax.deno.dev"><img alt="pax.deno.dev" src="assets/pax-deno-dev.svg" style="width:380px"></a>
-<a href="https://github.com/kawarimidoll/deno-markup-tag"><img alt="deno-markup-tag" src="assets/deno-markup-tag.svg" style="width:380px"></a>
-<a href="https://github.com/kawarimidoll/deno-twemoji-convert"><img alt="deno-twemoji-convert" src="assets/deno-twemoji-convert.svg" style="width:380px"></a>
-<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="assets/typograssy.svg" style="width:380px"></a>
-<a href="https://github.com/kawarimidoll/deno-tl-log"><img alt="deno-tl-log" src="assets/deno-tl-log.svg" style="width:380px"></a>
+![Unity](https://img.shields.io/badge/-Unity-000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
-### Gists
+---
 
-- [Auto Update Deno Dependencies](https://gist.github.com/kawarimidoll/2f43533e5fbe319f4bc9bb255c73a02d)
-- [Get DENO_DIR](https://gist.github.com/kawarimidoll/92179f60dfc67de3b0a52c5eb25ad333)
-- [Auto Run Deno in Neovim](https://gist.github.com/kawarimidoll/8db8bf8a23b06f77dd0cf8fbf3315bcb)
+## 📊 GitHub Stats
 
-## 📝 Vim practices
+![Aanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aanand-Pawara&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aanand-Pawara&layout=compact&theme=radical)
 
-### Repositories
+---
 
-- [tuskk.vim](https://github.com/kawarimidoll/tuskk.vim)
-- [autoplay.vim](https://github.com/kawarimidoll/autoplay.vim)
-- [textra.vim](https://github.com/kawarimidoll/textra.vim)
-- [magic.vim](https://github.com/kawarimidoll/magic.vim)
+## ✨ Signature Badge
 
-## 📝 Article
+![Typograssy Badge](https://typograssy.deno.dev/api?text=ANUSUYA&l1=edadff&l2=e486fe&l3=d53dff&l4=c800ff&comment=TeamPomogranate)
 
-<p align="center">
-<!-- zenn-article-link-next-line -->
-<a href="https://zenn.dev/kawarimidoll/articles/a4b5f0f6e7930c"><img alt="Zenn" src="https://res.cloudinary.com/zenn/image/upload/s--PqYob3gA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Slack%25E3%2581%25A7%25E7%25B5%25B5%25E6%2596%2587%25E5%25AD%2597%25E3%2582%2592%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%25A7%25E3%2581%258D%25E3%2581%25AA%25E3%2581%2584%25E5%25A0%25B4%25E5%2590%2588%25E3%2581%25AF%25E5%2588%25A5%25E8%25A8%2580%25E8%25AA%259E%25E3%2581%25AB%25E5%2590%258C%25E5%2590%258D%25E3%2581%25AE%25E5%25AE%259A%25E7%25BE%25A9%25E3%2581%258C%25E3%2581%2582%25E3%2582%258B%25E3%2581%258B%25E3%2582%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kawarimidoll%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzIzNzlhYzhkODYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png" style="width:480px"></a>
-</p>
+---
 
-You can find other articles here (in Japanese).
+## 🖤 Shoutout
 
-- [Zenn](https://zenn.dev/kawarimidoll)
-- [しずかなインターネット](https://sizu.me/kawarimidoll)
+> *“Some love stories don’t fit into categories... and that’s what makes them real.”*  
+> *– MNDRiN*
 
-## 🌟 Misc
+---
 
-<details>
-<summary>Contents generated by GitHub profile helpers</summary>
-
-### 🔥 Streak
-
-<p align="center">
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Streak" src="assets/streak.svg"></a>
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Trophy" src="assets/trophies.svg"></a>
-</p>
-
-### 📊 Stats
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Stats" src="assets/stats.svg"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Langs" src="assets/langs.svg"></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/LordDashMe/github-contribution-stats/"><img alt="Contribution Stats" src="assets/summary.svg"></a>
-</p>
-
-### 🗂 generated profiles
-
-- [GitStalk](https://gitstalk.netlify.app/kawarimidoll)
-- [GitFolio](https://gitfolio-online.vercel.app/u/kawarimidoll)
-- [profile-summary-for-github](https://profile-summary-for-github.com/user/kawarimidoll)
-
-</details>
+### 🔗 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Aanand-Pawara)
