@@ -40,6 +40,8 @@
 > *“Some love stories don’t fit into categories... and that’s what makes them real.”*  
 > *– MNDRiN*
 
+>*“The real programming stars when you run out of memory.”
+
 ---
 
 ### 🔗 Let's Connect
