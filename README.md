@@ -3,13 +3,33 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-Hey, I'm ***Aanand!*** <img src="https://github.com/Aanand-Pawara/Aanand-Pawara/blob/main/Assets/Gifs/cow-cute.gif" width="35">
+<p>
+  Hey, I'm <b><i>Aanand!</i></b>
+  <img src="https://github.com/Aanand-Pawara/Aanand-Pawara/blob/main/Assets/Gifs/cow-cute.gif" width="35">
+</p>
+
+<!-- Use a clearfix container instead of overflow: auto -->
+<div style="clear: both;">
+
+  <p style="overflow: hidden;"> <!-- Add this to contain the float -->
+    <img src="https://github.com/Aanand-Pawara/Aanand-Pawara/blob/a8ef6f1de71ff567d030770c2ccea6015fcb858b/Assets/Gifs/skull-neon.gif" 
+         width="60" 
+         style="float: left; margin: 5px 0px 10px 15px; border-radius: 10px;">
+                     I'm a game developer who's got Unity firmly in my grasp and can quickly get up to speed on any engine I take a leap into. I'm interested in creating interesting, professional-looking gameplay with silky smooth mechanics and nice visuals. Graphic design background means I'm hugely interested in how everything looks and the feel of it all - characters, worlds, UI — and getting it all to fit together just right.  
+  </p>
+
+  <p>
+    I also have some experience of hands-on 3D modelling in Blender and I am constantly improving. I keep abreast of the trends and tools within the industry, learning constantly to improve my craft. My aim is simple: create games that play really well and look equally awesome.
+  </p>
+</div>
+
 
 ---
+<img src="https://github.com/Aanand-Pawara/Aanand-Pawara/blob/main/Assets/Gifs/cow-cry.gif" width="35">&nbsp; ***About Me*** (a.k.a what I do when I’m not staring at bugs)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🌈 About Me (a.k.a what I do when I’m not staring at bugs)
 
-- 🎮 I make silly and smart things in **Unity**
+- 🎮 I make silly and smart things that might fry your machine
 - 🧠 I love building systems that just... *work*
 - 💻 Clean C# code gives me actual joy
 - 🔧 My games are chaotic, cute, and sometimes slightly cursed
@@ -132,7 +152,7 @@ Hey, I'm ***Aanand!*** <img src="https://github.com/Aanand-Pawara/Aanand-Pawara/
 
 ---
 
-> *"Code like a poet. Fix bugs like a warrior."*
+> *"The real programming starts, when you run out of memory"*
 
 ---
 
