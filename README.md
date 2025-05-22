@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://typograssy.deno.dev/api?text=A
+
 <p align="center">
 <a href="https://github.com/kawarimidoll/typograssy"><img alt="header" src="assets/header.svg"></a>
 </p>
