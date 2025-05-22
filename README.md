@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="[https://typograssy.deno.dev/api?text=Hello%20world!](https://typograssy.deno.dev/api?text=ANUSUYA&l1=edadff&l2=e486fe&l3=d53dff&l4=c800ff&comment=TeamPomogranate)"></a>
+<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="[https://typograssy.deno.dev/api?text=ANUSUYA&l1=edadff&l2=e486fe&l3=d53dff&l4=c800ff&comment=TeamPomogranate]"></a>
 ## 🦕 Deno practices
 
 ### Repositories
