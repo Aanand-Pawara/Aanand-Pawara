@@ -48,7 +48,7 @@
 
 ---
 
-<img src="https://github.com/Aanand-Pawara/Aanand-Pawara/blob/main/Assets/Gifs/adobe-logos. Kinard" width ="50">&nbsp; ***Skills***
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -146,18 +146,24 @@
 
 ### 🌐 Web Technologies
 
-<table style="border-collapse: collapse; background-color: #1e1e2f; border: 2px solid #d53dff; border-radius: 12px;">
+<table style="border-collapse: collapse; background-color: #1e1e2f; border: 2px solid #d53dff; border-radius: 12px; text-align: center;">
   <tr>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></td>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"></td>
+    <td style="padding: 10px; text-align: center;">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    </td>
+    <td style="padding: 10px; text-align: center;">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    </td>
+    <td style="padding: 10px; text-align: center;">
+      <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+    </td>
   </tr>
 </table>
 
+
 ---
 
-### 📈 Github stats (😭)
-
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![Aanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aanand-Pawara&show_icons=true&theme=radical)
